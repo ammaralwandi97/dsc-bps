@@ -1470,9 +1470,9 @@ output$the_story5 <- renderText(
 )
 
 output$the_story6 <- renderText(
-  'Tidak terdapat perbedaan upah yang siginifikan rata-rata upah antara Laki-laki dan Perempuan yang bekerja.
-  Selain itu, perempuan yang berpendidikan SMP atau SMA cenderung tidak mau terlibat dalam pasar tenaga kerja.
-  Sementara perempuan yang berpendidikan tinggi akan cenderung terlibat dalam pasar tenaga kerja.'
+  'Tidak terdapat perbedaan rata-rata upah yang signifikan antara laki-laki dan perempuan yang bekerja.
+  Selain itu, perempuan yang berpendidikan SMP atau SMA cenderung tidak banyak terlibat dalam pasar tenaga kerja.
+  Sementara perempuan yang berpendidikan tinggi akan cenderung masuk dalam pasar tenaga kerja.'
 )
 
 output$home_img <- renderImage({
